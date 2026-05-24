@@ -1,16 +1,27 @@
-## Hi there 👋
+### Skills
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=qt,js,cpp,python&perline=4&theme=light" />
+</p>
 
-<!--
-**cuongtq2613-oss/cuongtq2613-oss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Learning
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,html,css,tailwind,react,nodejs,express,mongodb,postgres,docker&perline=10&theme=dark" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=12&pause=300&color=blue&center=true&vCenter=true&width=350&lines=loading.(20%);loading..(50%);loading...(99%)" />
+</p>
+
+
+##  Journey
+
+```cpp
+const me = {
+    role: "IT Student",
+    progress:
+    {
+        "18/05/2026": ["Backend basic with Nodejs", "PostgreSQL basic"]
+    },
+    improving: true
+};
