@@ -1,7 +1,3 @@
-### Skills
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=qt,js,cpp,python&perline=4&theme=light" />
-</p>
 
 ### Tools
 
